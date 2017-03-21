@@ -21,6 +21,8 @@ setup(
 
     license='MIT',
 
+    scripts=['bin/templater'],
+
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
