@@ -33,5 +33,5 @@ setup(
 
     keywords='template, code generator',
 
-    py_modules=["Templater"],
+    py_modules=["templater"],
 )
