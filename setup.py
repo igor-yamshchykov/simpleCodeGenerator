@@ -21,7 +21,9 @@ setup(
 
     license='MIT',
 
-    scripts=['bin/templater'],
+    scripts=['bin/simplegenerator'],
+
+    packages=['templater'],
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',

@@ -40,4 +40,3 @@ except Exception as e:
     print """Something wen't wrong, check params provided,
             should be strings investigate the code or contact the developer"""
     print str(e)
-
